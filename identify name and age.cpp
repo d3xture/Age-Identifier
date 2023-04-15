@@ -19,7 +19,7 @@ int main() {
 
     cout << "Your name is " << yourname << " and your age is " << yourAge << "." << endl;
     cout << "Your friend's name is " << friendname << " and their age is " << friendAge << "." << endl;
-
+ 
 
     return 0;
 }
